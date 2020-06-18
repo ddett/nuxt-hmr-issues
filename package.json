@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-hmr-issues",
+  "version": "1.0.0",
+  "description": "importing a json file into a server middleware file breaks HMR",
+  "author": "ddett",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.12.2"
+  },
+  "devDependencies": {}
+}
